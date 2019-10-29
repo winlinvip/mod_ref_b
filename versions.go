@@ -1,4 +1,4 @@
-package mod_ref_a
+package mod_ref_b
 
 import "github.com/winlinvip/mod_minor_versions"
 
