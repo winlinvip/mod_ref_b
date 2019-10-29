@@ -1,4 +1,4 @@
-module github.com/winlinvip/mod_ref_a
+module github.com/winlinvip/mod_ref_b
 
 go 1.13
 
